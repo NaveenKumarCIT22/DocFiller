@@ -1,0 +1,6 @@
+email,full_name,gender,parent_name,parent_gender,course_name,joining_date,admission_date,admission_number,academic_year,completion_year
+john.doe@email.com,John Doe,Male,Jane Doe,Female,Computer Science,2023-01-01,May-6-2023,CS123456,2023,2027
+jane.smith@email.com,Jane Smith,Female,Jim Smith,Male,Electrical Engineering,2023-02-15,May-6-2023,EE789012,2023,2027
+sam.jones@email.com,Sam Jones,Male,Susan Jones,Female,Psychology,2023-03-10,May-6-2023,PSY654321,2023,2027
+amy.white@email.com,Amy White,Female,Adam White,Male,Mathematics,2023-04-20,May-6-2023,MATH987654,2023,2027
+chris.black@email.com,Chris Black,Male,Christine Black,Female,History,2023-05-05,May-6-2023,HIST345678,2023,2027
